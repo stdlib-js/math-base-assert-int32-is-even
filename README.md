@@ -93,6 +93,23 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/assert/is-even`][@stdlib/math/base/assert/is-even]: test if a finite numeric value is an even number.
+-   [`@stdlib/math/base/assert/int32-is-odd`][@stdlib/math/base/assert/int32-is-odd]: test if a 32-bit integer is odd.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -147,6 +164,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-assert-int32-is-even/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/assert/is-even]: https://github.com/stdlib-js/math-base-assert-is-even
+
+[@stdlib/math/base/assert/int32-is-odd]: https://github.com/stdlib-js/math-base-assert-int32-is-odd
+
+<!-- </related-links> -->
 
 </section>
 
