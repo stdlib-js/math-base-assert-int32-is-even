@@ -1,0 +1,43 @@
+{
+  "name": "@stdlib/math-base-assert-int32-is-even",
+  "version": "0.0.0",
+  "description": "Test if a 32-bit integer is even.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-assert-int32-is-even.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "math",
+    "mathematics",
+    "integer",
+    "int",
+    "32-bit",
+    "long",
+    "even",
+    "is",
+    "iseven",
+    "type",
+    "check",
+    "validate",
+    "test",
+    "valid"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
