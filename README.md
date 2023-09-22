@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@deno/mod.js';
+import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@v0.1.0-deno/mod.js';
 ```
 
 #### isEven( x )
@@ -79,7 +79,7 @@ bool = isEven( 0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@deno/mod.js';
+import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@v0.1.0-deno/mod.js';
 
 var bool;
 var x;
