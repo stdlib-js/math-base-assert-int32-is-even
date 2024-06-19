@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`1695343`](https://github.com/stdlib-js/stdlib/commit/1695343f0e7fcfc2786057236f0a24bcc2729a67) - update function name to match examples
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`1695343`](https://github.com/stdlib-js/stdlib/commit/1695343f0e7fcfc2786057236f0a24bcc2729a67) - **fix:** update function name to match examples _(by Philipp Burckhardt)_
 -   [`a8ce905`](https://github.com/stdlib-js/stdlib/commit/a8ce905a5ab79798b2dea0a97aef3bdaa65bb0c5) - **feat:** add C implementation for  `math/base/assert/int32-is-even` _(by Rejoan Sardar, Philipp Burckhardt)_
 
 </details>
