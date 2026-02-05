@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@esm/index.mjs';
+import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@v0.3.2-esm/index.mjs';
 ```
 
 #### isEven( x )
@@ -84,7 +84,7 @@ bool = isEven( 0 );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@esm/index.mjs';
+import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-int32-is-even@v0.3.2-esm/index.mjs';
 
 var opts = {
     'dtype': 'int32'
